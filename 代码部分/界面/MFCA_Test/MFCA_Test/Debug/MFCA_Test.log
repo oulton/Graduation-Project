@@ -1,0 +1,48 @@
+﻿生成启动时间为 2019/6/4 10:56:14。
+     1>项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /IF:\Opencv3.0\opencv\build\include /IF:\Opencv3.0\opencv\build\include\opencv /IF:\Opencv3.0\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yc"stdafx.h" /Fp"Debug\MFCA_Test.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt stdafx.cpp
+         stdafx.cpp
+     1>d:\vs2013\vc\atlmfc\include\afx.h(38): warning C4996: 'MBCS_Support_Deprecated_In_MFC': MBCS support in MFC is deprecated and may be removed in a future version of MFC.
+                 d:\vs2013\vc\atlmfc\include\afx.h(33) : 参见“MBCS_Support_Deprecated_In_MFC”的声明
+         D:\VS2013\VC\bin\CL.exe /c /IF:\Opencv3.0\opencv\build\include /IF:\Opencv3.0\opencv\build\include\opencv /IF:\Opencv3.0\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"Debug\MFCA_Test.pch" /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt MFCA_Test.cpp MFCA_TestDlg.cpp
+         MFCA_TestDlg.cpp
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(364): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(404): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(500): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(597): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(601): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(622): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(635): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(636): warning C4305: “初始化”: 从“double”到“float”截断
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(688): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(691): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(692): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(696): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(699): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(700): warning C4244: “=”: 从“double”转换到“float”，可能丢失数据
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(708): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(717): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(727): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\mfca_test\mfca_test\mfca_testdlg.cpp(731): warning C4018: “<”: 有符号/无符号不匹配
+         MFCA_Test.cpp
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+         正在生成代码...
+       ResourceCompile:
+         C:\Program Files (x86)\Windows Kits\8.1\bin\x86\rc.exe /D _DEBUG /D _AFXDLL /l"0x0804" /IDebug\ /nologo /fo"Debug\MFCA_Test.res" MFCA_Test.rc 
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Debug\MFCA_Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\Opencv3.0\opencv\build\x86\vc12\staticlib /LIBPATH:F:\Opencv3.0\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib opencv_ts300.lib opencv_world300.lib IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib libwebp.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib zlib.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Debug\MFCA_Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Debug\MFCA_Test.lib" /MACHINE:X86 Debug\MFCA_Test.res
+         Debug\MFCA_Test.obj
+         Debug\MFCA_TestDlg.obj
+         Debug\stdafx.obj
+         MFCA_Test.vcxproj -> E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Debug\MFCA_Test.exe
+     1>已完成生成项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:11.15

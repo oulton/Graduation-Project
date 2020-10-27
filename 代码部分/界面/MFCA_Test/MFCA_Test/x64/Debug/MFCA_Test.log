@@ -1,0 +1,42 @@
+﻿生成启动时间为 2019/5/21 10:29:55。
+     1>项目“C:\Users\Hyper\Desktop\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /IF:\Opencv3.0\opencv\build\include /IF:\Opencv3.0\opencv\build\include\opencv /IF:\Opencv3.0\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _WINDOWS /D _DEBUG /D _MBCS /D _AFXDLL /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Yu"stdafx.h" /Fp"x64\Debug\MFCA_Test.pch" /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt MFCA_TestDlg.cpp
+         MFCA_TestDlg.cpp
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>MFCA_TestDlg.cpp(351): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(360): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(364): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(407): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(408): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(427): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(428): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(443): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(444): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(463): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(464): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(479): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(480): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(503): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(504): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(524): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(525): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(540): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(541): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(560): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(561): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(576): warning C4267: “参数”: 从“size_t”转换到“int”，可能丢失数据
+     1>MFCA_TestDlg.cpp(577): warning C4267: “=”: 从“size_t”转换到“int”，可能丢失数据
+       Link:
+         D:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\Hyper\Desktop\MFCA_Test\x64\Debug\MFCA_Test.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\lib /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\staticlib opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"C:\Users\Hyper\Desktop\MFCA_Test\x64\Debug\MFCA_Test.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\Hyper\Desktop\MFCA_Test\x64\Debug\MFCA_Test.lib" /MACHINE:X64 x64\Debug\MFCA_Test.res
+         x64\Debug\MFCA_Test.obj
+         x64\Debug\MFCA_TestDlg.obj
+         x64\Debug\stdafx.obj
+         MFCA_Test.vcxproj -> C:\Users\Hyper\Desktop\MFCA_Test\x64\Debug\MFCA_Test.exe
+     1>已完成生成项目“C:\Users\Hyper\Desktop\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.36

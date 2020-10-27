@@ -1,0 +1,15 @@
+﻿生成启动时间为 2019/6/4 10:59:49。
+     1>项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”在节点 2 上(Build 个目标)。
+     1>Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Release\MFCA_Test.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:F:\Opencv3.0\opencv\build\x86\vc12\staticlib /LIBPATH:F:\Opencv3.0\opencv\build\x86\vc12\lib opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib opencv_ts300.lib opencv_world300.lib IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib libwebp.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib zlib.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /manifestinput:D:\VS2013\VC\Include\Manifest\dpiaware.manifest /DEBUG /PDB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Release\MFCA_Test.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /LTCG /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Release\MFCA_Test.lib" /MACHINE:X86 /SAFESEH Release\MFCA_Test.res
+         Release\MFCA_Test.obj
+         Release\MFCA_TestDlg.obj
+         Release\stdafx.obj
+         正在生成代码
+         已完成代码的生成
+         MFCA_Test.vcxproj -> E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\Release\MFCA_Test.exe
+     1>已完成生成项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\界面\MFCA_Test\MFCA_Test\MFCA_Test.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.70
