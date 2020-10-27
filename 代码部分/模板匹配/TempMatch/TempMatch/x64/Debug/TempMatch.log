@@ -1,0 +1,16 @@
+﻿生成启动时间为 2019/12/30 19:52:23。
+     1>项目“E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\TempMatch\TempMatch.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\x86_amd64\CL.exe /c /IF:\Opencv3.0\opencv\build\include /IF:\Opencv3.0\opencv\build\include\opencv /IF:\Opencv3.0\opencv\build\include\opencv2 /Zi /nologo /W3 /WX- /sdl /Od /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"x64\Debug\\" /Fd"x64\Debug\vc120.pdb" /Gd /TP /errorReport:prompt match.cpp
+         match.cpp
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>F:\Opencv3.0\opencv\build\include\opencv2/core/utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+       Link:
+         D:\VS2013\VC\bin\x86_amd64\link.exe /ERRORREPORT:PROMPT /OUT:"E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\x64\Debug\TempMatch.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\lib /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\staticlib opencv_ts300d.lib opencv_world300d.lib IlmImfd.lib libjasperd.lib libjpegd.lib libpngd.lib libtiffd.lib libwebpd.lib opencv_calib3d300d.lib opencv_core300d.lib opencv_features2d300d.lib opencv_flann300d.lib opencv_highgui300d.lib opencv_imgcodecs300d.lib opencv_imgproc300d.lib opencv_ml300d.lib opencv_objdetect300d.lib opencv_photo300d.lib opencv_shape300d.lib opencv_stitching300d.lib opencv_superres300d.lib opencv_video300d.lib opencv_videoio300d.lib opencv_videostab300d.lib zlibd.lib opencv_ts300.lib opencv_world300.lib IlmImf.lib libjasper.lib libjpeg.lib libpng.lib libtiff.lib libwebp.lib opencv_calib3d300.lib opencv_core300.lib opencv_features2d300.lib opencv_flann300.lib opencv_highgui300.lib opencv_imgcodecs300.lib opencv_imgproc300.lib opencv_ml300.lib opencv_objdetect300.lib opencv_photo300.lib opencv_shape300.lib opencv_stitching300.lib opencv_superres300.lib opencv_video300.lib opencv_videoio300.lib opencv_videostab300.lib zlib.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\x64\Debug\TempMatch.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\x64\Debug\TempMatch.lib" /MACHINE:X64 x64\Debug\match.obj
+         TempMatch.vcxproj -> E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\x64\Debug\TempMatch.exe
+     1>已完成生成项目“E:\Harper\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\模板匹配\TempMatch\TempMatch\TempMatch.vcxproj”(Build 个目标)的操作。
+
+生成成功。
+
+已用时间 00:00:01.29

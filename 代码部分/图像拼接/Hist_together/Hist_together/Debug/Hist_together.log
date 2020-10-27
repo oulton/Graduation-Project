@@ -1,0 +1,17 @@
+﻿生成启动时间为 2019/4/26 12:08:25。
+     1>项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\Hist_together\Hist_together\Hist_together.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\VS2013\VC\bin\CL.exe /c /IF:\Opencv3.0\opencv\build\include /IF:\Opencv3.0\opencv\build\include\opencv /IF:\Opencv3.0\opencv\build\include\opencv2 /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D WIN32 /D _DEBUG /D _CONSOLE /D _LIB /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt main.cpp
+         main.cpp
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\mat.hpp(1965): warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\persistence.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>f:\opencv3.0\opencv\build\include\opencv2\core\utility.hpp : warning C4819: 该文件包含不能在当前代码页(936)中表示的字符。请将该文件保存为 Unicode 格式以防止数据丢失
+     1>e:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\hist_together\hist_together\main.cpp(47): warning C4018: “<”: 有符号/无符号不匹配
+       Link:
+         D:\VS2013\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\Hist_together\Debug\Hist_together.exe" /INCREMENTAL /NOLOGO /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\lib /LIBPATH:F:\Opencv3.0\opencv\build\x64\vc12\staticlib opencv_ts300.lib opencv_ts300d.lib opencv_world300.lib opencv_world300d.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\Hist_together\Debug\Hist_together.pdb" /SUBSYSTEM:CONSOLE /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\Hist_together\Debug\Hist_together.lib" /MACHINE:X86 Debug\main.obj
+     1>opencv_world300.lib(opencv_world300.dll) : fatal error LNK1112: 模块计算机类型“x64”与目标计算机类型“X86”冲突
+     1>已完成生成项目“E:\课程设计\毕设\毕设题目\自动化151_15417133_朱海鹏\代码部分\图像拼接\Hist_together\Hist_together\Hist_together.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:01.75
